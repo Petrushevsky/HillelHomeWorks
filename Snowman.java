@@ -15,6 +15,7 @@ public class Snowman {
         double totalWeight = weight1 + weight2 + weight3;
         //We show result of the task
         System.out.println("Total weight of Snowman is: " + totalWeight + " (KG)");
+        //Total weight of Snowman is: 3.3221294558891774 (KG)
     }
 
 }
